@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<manybooksCategories urlPrefix="http://manybooks.net/rss/">
+	<category categoryName="adventure" fileUrl="ADV.xml"/>
+	<category categoryName="african-american studies" fileUrl="AFR.xml"/>
+	<category categoryName="art" fileUrl="ART.xml"/>
+	<category categoryName="audiobooks" fileUrl="AUD.xml"/>
+	<category categoryName="banned books" fileUrl="BAN.xml"/>
+	<category categoryName="biography" fileUrl="BIO.xml"/>
+	<category categoryName="business" fileUrl="BUS.xml"/>
+	<category categoryName="canadian literature" fileUrl="CAN.xml"/>
+	<category categoryName="classic" fileUrl="CLA.xml"/>
+	<category categoryName="computers" fileUrl="COM.xml"/>
+	<category categoryName="cooking" fileUrl="COO.xml"/>
+	<category categoryName="correspondence" fileUrl="COR.xml"/>
+	<category categoryName="creative commons" fileUrl="CCL.xml"/>
+	<category categoryName="criticism" fileUrl="CRI.xml"/>
+	<category categoryName="drama" fileUrl="DRA.xml"/>
+	<category categoryName="espionage" fileUrl="SPY.xml"/>
+	<category categoryName="essays" fileUrl="ESS.xml"/>
+	<category categoryName="etiquette" fileUrl="ETT.xml"/>
+	<category categoryName="fantasy" fileUrl="FAN.xml"/>
+	<category categoryName="fiction and literature" fileUrl="FIC.xml"/>
+	<category categoryName="games" fileUrl="GAM.xml"/>
+	<category categoryName="ghost stories" fileUrl="GHO.xml"/>
+	<category categoryName="gothic" fileUrl="GOT.xml"/>
+	<category categoryName="government publication" fileUrl="GOV.xml"/>
+	<category categoryName="harvard classic" fileUrl="HAR.xml"/>
+	<category categoryName="health" fileUrl="HEA.xml"/>
+	<category categoryName="history" fileUrl="HIS.xml"/>
+	<category categoryName="humor" fileUrl="HUM.xml"/>
+	<category categoryName="instructional" fileUrl="INS.xml"/>
+	<category categoryName="language" fileUrl="LAN.xml"/>
+	<category categoryName="music" fileUrl="MUS.xml"/>
+	<category categoryName="mystery/detective" fileUrl="MYS.xml"/>
+	<category categoryName="myth" fileUrl="MYT.xml"/>
+	<category categoryName="nature" fileUrl="NAT.xml"/>
+	<category categoryName="nautical" fileUrl="NAU.xml"/>
+	<category categoryName="non-fiction" fileUrl="NON.xml"/>
+	<category categoryName="occult" fileUrl="OCC.xml"/>
+	<category categoryName="periodical" fileUrl="PER.xml"/>
+	<category categoryName="philosophy" fileUrl="PHI.xml"/>
+	<category categoryName="pirate tales" fileUrl="PIR.xml"/>
+	<category categoryName="poetry" fileUrl="POE.xml"/>
+	<category categoryName="politics" fileUrl="POL.xml"/>
+	<category categoryName="post-1930" fileUrl="MOD.xml"/>
+	<category categoryName="psychology" fileUrl="PSY.xml"/>
+	<category categoryName="pulp" fileUrl="PUL.xml"/>
+	<category categoryName="random seletion" fileUrl="RAN.xml"/>
+	<category categoryName="reference" fileUrl="REF.xml"/>
+	<category categoryName="religion" fileUrl="REL.xml"/>
+	<category categoryName="romance" fileUrl="ROM.xml"/>
+	<category categoryName="satire" fileUrl="SAT.xml"/>
+	<category categoryName="science" fileUrl="SCI.xml"/>
+	<category categoryName="science fiction" fileUrl="SFC.xml"/>
+	<category categoryName="short story" fileUrl="SST.xml"/>
+	<category categoryName="short story collection" fileUrl="SHO.xml"/>
+	<category categoryName="thriller" fileUrl="THR.xml"/>
+	<category categoryName="travel" fileUrl="TRA.xml"/>
+	<category categoryName="war" fileUrl="WAR.xml"/>
+	<category categoryName="western" fileUrl="WES.xml"/>
+	<category categoryName="women's studies" fileUrl="WOM.xml"/>
+	<category categoryName="young readers" fileUrl="CHI.xml"/>
+</manybooksCategories>
